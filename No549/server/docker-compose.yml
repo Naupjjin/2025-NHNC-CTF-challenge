@@ -1,7 +1,7 @@
 version: '3.3'
 
 services:
-  no-549:
+  pwn-no-549:
     privileged: true
     build:
         context: .
