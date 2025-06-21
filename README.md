@@ -4,4 +4,4 @@
 ## challenge
 | challenge | Category | Description |
 |-----------|----------|-------------|
-| No. | Pwn | Kernel 6.14 + request_module() |
+| No.5️⃣4️⃣9️⃣ | Pwn | Kernel 6.14 + request_module() |
