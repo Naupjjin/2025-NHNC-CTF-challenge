@@ -6,6 +6,6 @@
 - Hackmd writeup: https://hackmd.io/@naup96321/SJ9ezRlNeg
 
 ## challenge
-| challenge | Category | Description |
-|-----------|----------|-------------|
-| No.5️⃣4️⃣9️⃣ | Pwn | Kernel 6.14 + request_module() |
+| challenge | Category | Description | solve |
+|-----------|----------|-------------|-------|
+| No.5️⃣4️⃣9️⃣ | Pwn | Kernel 6.14 + request_module() | 8/472 |
